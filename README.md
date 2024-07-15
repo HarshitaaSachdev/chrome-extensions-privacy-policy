@@ -18,8 +18,6 @@ Opt-Out: There is no opt-out option as the extension requires access to browser 
 # Security Measures
 Data Security: We implement measures to protect user data, including encryption and secure storage.
 Data Breach: In the event of a data breach, affected users will be notified as required by law.
-# Changes to This Privacy Policy
-Policy Updates: Users will be notified of any changes to this privacy policy within the extension.
-Effective Date: This policy is effective as of [Insert Effective Date] and may be updated periodically.
+
 # Contact Us
 Contact Information: For questions or concerns about this privacy policy, please contact us at harshitavsachdev@gmail.com.
